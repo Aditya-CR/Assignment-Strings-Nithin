@@ -6,9 +6,9 @@
 // 4)Finally, display the third string.
 
 //Expected input & output:-
-//Enter the first string: Nithin
-//Enter the second string:  kumar
-//The concatenated  string = Nithinkumar
+//Input (Enter the first string:) : Nithin
+//Input (Enter the second string:) : kumar
+//Output: The concatenated string = Nithinkumar
 
 #include <stdio.h>
 int main() {
