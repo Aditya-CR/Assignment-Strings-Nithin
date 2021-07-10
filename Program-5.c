@@ -4,8 +4,8 @@
 //finally display the count of vowels present
 
 //Expected input & output:-
-//Enter the string: nithin
-//Number of vowels in the string = 2
+//Input(Enter the string:) : nithin
+//Output : Number of vowels in the string = 2
 
 #include <stdio.h>
 int main()
