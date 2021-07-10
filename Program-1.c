@@ -5,8 +5,8 @@ Complete the given program with string declaration/initialization & read/print t
 //3) Finally, Print the input string obtained from user.
 
 //Expected input & output:-
-//Enter a String: Vidyavardhaka
-//The input string is Vidyavardhaka
+//Input : (Enter a String:) Vidyavardhaka
+//Output : Vidyavardhaka
 
 #include <stdio.h>
 int main() 
