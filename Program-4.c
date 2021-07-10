@@ -5,18 +5,17 @@
 // 3) print the length
 
 //Expected input & output:-
-//Enter a string: Vidyavardhaka
-//The length of string = 13
+//Input (Enter a string:) : Vidyavardhaka
+//Output: 13
 
 #include <stdio.h>
 int main()
 {
  
-    // Declare the required variables
+                         // Declare the required variables
     printf("Enter a string: ");
     scanf("%s",str);
     for(i=0; str[i]!='\0'; ++i);
-       printf("The length of string = );
-       //Complete the missing code in result printing statement
+       printf(" ", );  //Complete the missing code in result printing statement
     return 0;
 }
