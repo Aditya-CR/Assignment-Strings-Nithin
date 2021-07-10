@@ -5,7 +5,7 @@
 //3) Finally, the copied string is displayed on the screen.
 
 //Expected input & output:-
-//Enter a String-1: Nithin
+//Input: (Enter a String-1:) Nithin
 //The copied String-2 is Nithin
 
 #include <stdio.h>
